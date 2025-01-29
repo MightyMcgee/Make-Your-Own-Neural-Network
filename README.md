@@ -7,15 +7,18 @@
 ## Part 1: MNIST Dataset
 
 1. Follow these instructions to train your neural network on a subset of the MNIST dataset of handwritten numbers. 
-2. **Train and test your dataset with both the subset and the full MNIST dataset**
+2. **Train and test your dataset with both the subset and the full MNIST dataset**. 
 3. Once you get the hang of how to train and test your dataset, you can move on to part 2. 
+
+*See Part1.pdf*
 
 ## Part 2: Improving Your Network or Creating Your Own
 
-1. For this section, you can either continue to explore the network you just trained using your own handwriting. Or, you can 
-2. 
-You can use the following and use your own handwriting
-Run your train on groups of two sizes
+1. For this section, you can either continue to explore the network you just trained using your own handwriting. Or, you can create a dataset of your own handwriting and continue to refine your model.
+2. Either way, try running your model with datasets of multiple sizes to compare their accuracy.
+3. You will need to submit a Jupyter notebook that clearly explains your project to a novice reader. 
+
+*For using your own handwriting see Part2.pdf*
 
 ## Deliverables
 
@@ -23,6 +26,10 @@ For this lab, submit the following deliverables:
 1. A Jupyter Notebook with your neural network and accuracy calculations
 2. Project uploaded to GitHub
 3. Social impact reflection
+
+Use professional spelling/grammar and a neutral, objective voice when writing your documentation. 
+
+*See sample_notebook.ipynb as an example*
 
 ## Social Impact Reflection
 
@@ -32,10 +39,7 @@ Using your two articles about the environmental impacts of AI as additional sour
 
 ## Rubric
 
-12 points - 
-10 points - 
-8 points - 
-6 points - 
-
-
----
+12 points - Project contains all required components and uses professional language
+10 points - Project is complete but writing components are not professional(either the notebook or the social impact reflection.) 
+8 points - Program is functional and includes only one of the social impact reflection or Jupyter notebook explanations. 
+6 points -  Program is functional but includes neither an explanatory Jupyter notebook nor a social impact reflection.
